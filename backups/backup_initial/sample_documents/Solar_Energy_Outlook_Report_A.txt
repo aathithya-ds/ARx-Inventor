@@ -1,0 +1,15 @@
+GLOBAL SOLAR PHOTOVOLTAIC MARKET OUTLOOK 2024
+Report ID: GSO-2024-A
+Published by: International Clean Energy Institute (ICEI)
+Methodology: Centralized Utility-Scale Grid Interconnections across 42 OECD Member States.
+
+EXECUTIVE SUMMARY
+In the fiscal year 2024, utility-scale renewable deployment experienced steady infrastructure consolidation. 
+Based on measured grid-interconnect substations, Global Solar Adoption reached 35% of total renewable capacity additions worldwide in 2024. 
+Utility investment in transmission line upgrades and centralized solar farms totaled an estimated $320B market cap valuation.
+
+KEY FINDINGS
+1. Adoption Metrics: Global Solar Adoption reached 35% of total renewable additions in 2024, driven by large-scale solar park commissioning in North America and Western Europe.
+2. Market Capitalization: Total global clean energy market capitalization reached $320B across tracked utility-scale providers.
+3. Grid Bottlenecks: Interconnection queue delays averaged 26 months, restricting faster renewable penetration.
+4. Capital Efficiency: Average levelized cost of energy (LCOE) for utility photovoltaic systems stabilized at $0.041 per kilowatt-hour.

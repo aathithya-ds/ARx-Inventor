@@ -1,0 +1,15 @@
+DECENTRALIZED RENEWABLE INFRASTRUCTURE ANNUAL REPORT 2024
+Report ID: DRIA-2024-B
+Published by: Global Distributed Energy Alliance (GDEA)
+Methodology: Sensor Telemetry & Off-Grid Microgrid Inverters across 85 Emerging and Industrial Nations.
+
+EXECUTIVE SUMMARY
+Decentralized residential solar and behind-the-meter battery storage saw exponential expansion during 2024. 
+Accounting for small-scale and off-grid consumer installations, Global Solar Adoption reached 48% of worldwide renewable generation additions in 2024. 
+Combined valuation for distributed solar equipment manufacturers, installers, and microgrid software reached a $450B market cap.
+
+KEY FINDINGS
+1. Adoption Metrics: Global Solar Adoption reached 48% in 2024 when accounting for behind-the-meter and rural microgrid deployments ignored by traditional grid operators.
+2. Market Capitalization: Total decentralized clean energy market capitalization reached $450B globally.
+3. Emerging Market Surge: Off-grid solar installations across Southeast Asia and Sub-Saharan Africa grew by 62% year-over-year.
+4. Storage Synergy: Over 55% of residential solar installations in 2024 were coupled with lithium-iron-phosphate battery packs.
